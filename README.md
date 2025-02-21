@@ -2,7 +2,7 @@
 
 ## Overview
 
-Predict stock price movements for a volatile stock using an LSTM (Long Short-Term Memory) model. Integrate multiple features, including historical price data, news sentiment, and other market factors. Evaluate the prediction model with various explainability methods to provide transparency into its decision-making process.
+Build a GenAI-powered stock prediction model using an LSTM (Long Short-Term Memory) network to forecast price movements for volatile stocks. Integrate historical price data, news sentiment, and other market factors to improve prediction accuracy. Implement explainability methods to ensure transparency in the model’s decision-making process. Optimize for real-time predictions and adaptive learning based on evolving market conditions.
 
 ## Why Volatile Stock?
 
