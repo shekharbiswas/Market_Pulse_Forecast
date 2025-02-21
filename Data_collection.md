@@ -13,7 +13,7 @@
 - Read the API documentation to understand endpoints, request formats, and rate limits.
 
 ## **Step 3: Fetch News Data**
-- Use Python or another programming language to make API requests.
+- Use Python to make API requests.
 - Extract relevant stock-related news based on keywords or stock tickers.
 
 ## **Step 4: Filter & Store Relevant News**
