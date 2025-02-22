@@ -16,7 +16,6 @@
 - **news_volatility_impact**: Sentiment standard deviation (volatility in news).  
   Measures fluctuations in sentiment, which may correlate with stock volatility.
 
----
 
 ## 2. Stock Price Data
 - **open_price**: Opening stock price.  
@@ -37,7 +36,6 @@
 - **price_change**: Percentage change in stock price ((close - open) / open * 100).  
   Measures the daily price movement, useful for identifying trends.
 
----
 
 ## 3. Technical Indicators
 - **moving_avg_50**: 50-day moving average (trend indicator).  
@@ -60,8 +58,6 @@
 
 - **atr**: Average True Range (volatility measure).  
   Measures market volatility and potential price movement.
-
----
 
 ## 4. Additional Features (Not Finalized)
 
@@ -86,7 +82,6 @@
 - **holiday_effect**: Indicator for public holidays or major events.  
   Market activity often differs around holidays or important events, affecting stock volatility.
 
----
 
 ## Conclusion
 
