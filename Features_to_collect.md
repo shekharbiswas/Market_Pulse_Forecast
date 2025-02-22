@@ -1,4 +1,4 @@
-# Key Features to Collect for LSTM Model
+# Key Features to Collect
 
 ## 1. News Features
 - **sentiment_score**: Sentiment polarity score of the news article (TextBlob/VADER).  
