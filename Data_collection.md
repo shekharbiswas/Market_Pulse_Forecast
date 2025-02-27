@@ -6,6 +6,8 @@
   - [Alpha Vantage](https://www.alphavantage.co/)
   - [Financial Modeling Prep](https://financialmodelingprep.com/)
   - Yahoo Finance API (Unofficial)
+ 
+Our selection:  [Financial Modeling Prep](https://financialmodelingprep.com/)
 
 ## **Step 2: Obtain API Access**
 - Sign up for the selected API provider.
